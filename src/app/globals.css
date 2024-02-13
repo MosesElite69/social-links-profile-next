@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.main-bg{
+    background-color: hsl(0, 0%, 8%) ;
+}
+
+.card-bg{
+    background-color:hsl(0, 0%, 12%);
+}
+.location{
+    color:hsl(75, 94%, 57%);
+}
+
+span{
+    background-color:hsl(0, 0%, 20%);
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+}
+
