@@ -9,8 +9,8 @@ export default function Home() {
           <Image
             src="/avatar-jessica.jpeg"
             alt="jessica"
-            width={60}
-            height={50}
+            width={70}
+            height={60}
             className="mx-auto rounded-full"
           />
           <h1>Jessica Randall</h1>

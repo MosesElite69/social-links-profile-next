@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [social-links-profile-next](https://social-links-profile-next.netlify.app)
 - Frontend Mentor - [MosesElite69](https://www.frontendmentor.io/profile/MosesElite69)
 - Twitter - [RealMosesElite](https://twitter.com/RealMosesElite)
 - Instagram - [moses_elite2020](https://www.instagram.com/moses_elite2020)
