@@ -16,7 +16,7 @@ export default function Home() {
           <h1>Jessica Randall</h1>
           <p className="location text-sm">London, United Kingdom</p>
           <p className="text-center text-[14px] my-2">
-            "Front-end developer and avid reader."
+          &quot;Front-end developer and avid reader.&quot;
           </p>
           <div className="grid gap-x-6 m-2">
             <span className="my-2 w-full rounded-md p-2 hover:cursor-pointer hover:bg-blue-400">
